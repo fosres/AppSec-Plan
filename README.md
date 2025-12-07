@@ -1,6 +1,6 @@
 # 🛡️ 26-Week Application Security Engineering Plan
 
-> **Transforming from Intel Security Engineer to AppSec Engineer through systematic, hands-on learning**
+> **Transforming from Security Software Engineer to AppSec Engineer through systematic, hands-on learning**
 
 [![Duration](https://img.shields.io/badge/duration-26%20weeks-blue?style=flat-square)](https://github.com/fosres/AppSec-Plan)
 [![Hours](https://img.shields.io/badge/total%20hours-572-green?style=flat-square)](https://github.com/fosres/AppSec-Plan)

@@ -4,7 +4,7 @@
 
 [![Duration](https://img.shields.io/badge/duration-26%20weeks-blue?style=flat-square)](https://github.com/fosres/AppSec-Plan)
 [![Hours](https://img.shields.io/badge/total%20hours-572-green?style=flat-square)](https://github.com/fosres/AppSec-Plan)
-# [![Target](https://img.shields.io/badge/target-%24125K--145K-brightgreen?style=flat-square)](https://github.com/fosres/AppSec-Plan)
+<!-- [![Target](https://img.shields.io/badge/target-%24125K--145K-brightgreen?style=flat-square)](https://github.com/fosres/AppSec-Plan) -->
 
 ---
 

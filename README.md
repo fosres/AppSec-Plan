@@ -316,7 +316,7 @@ All tools will be published at [github.com/fosres/AppSec-Exercises](https://gith
 
 - **GitHub:** [github.com/fosres](https://github.com/fosres)
 - **Blog:** [dev.to/fosres](https://dev.to/fosres)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tanveer-salim/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/fosres)
 - **Email:** Available upon request for collaboration or opportunities
 
 ### I'm Looking For:

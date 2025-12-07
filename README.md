@@ -335,7 +335,7 @@ This curriculum and all associated exercises are available under the MIT License
 
 ## 🙏 Acknowledgments
 
-- **Intel Security Team:** Jonathan Valamehr, Tony Martin, Brian Nutter for mentorship and references
+- **Intel Security Team:** Jonathan Valamehr, Tony Martin, and Toby Kohlenberg for mentorship
 - **OWASP Community:** For incredible free resources and documentation
 - **PortSwigger:** For the comprehensive Web Security Academy
 - **Manning Publications:** For excellent security and Python books

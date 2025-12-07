@@ -4,7 +4,6 @@
 
 [![Duration](https://img.shields.io/badge/duration-26%20weeks-blue?style=flat-square)](https://github.com/fosres/AppSec-Plan)
 [![Hours](https://img.shields.io/badge/total%20hours-572-green?style=flat-square)](https://github.com/fosres/AppSec-Plan)
-<!-- [![Target](https://img.shields.io/badge/target-%24125K--145K-brightgreen?style=flat-square)](https://github.com/fosres/AppSec-Plan) -->
 
 ---
 
@@ -27,8 +26,7 @@ This repository documents my **26-week intensive journey** from Intel Security E
 
 **Timeline:** 26 weeks (572 total hours)  
 **Commitment:** 22 hours/week  
-**Target:** Remote AppSec Engineer role ($125K-$145K)  
-**Target Companies:** Trail of Bits, NCC Group, Anthropic, GitLab, Stripe, Coinbase
+**Target:** Remote AppSec Engineer role
 
 ---
 
@@ -62,7 +60,6 @@ Most AppSec engineers come from either:
 - **Languages:** C (primary), C++, Golang, Python (learning)
 - **Security Training:** Intel Crypto Academy Level I
 - **Cryptography:** Implemented XMSS post-quantum signatures, ChaCha20 stream cipher, Argon2 KDFs
-- **Education:** Pursuing UC Berkeley MICS, considering Stanford MSCS
 
 ---
 
@@ -316,7 +313,7 @@ All tools will be published at [github.com/fosres/AppSec-Exercises](https://gith
 
 - **GitHub:** [github.com/fosres](https://github.com/fosres)
 - **Blog:** [dev.to/fosres](https://dev.to/fosres)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/fosres)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tanveer-salim/)
 - **Email:** Available upon request for collaboration or opportunities
 
 ### I'm Looking For:
@@ -335,7 +332,7 @@ This curriculum and all associated exercises are available under the MIT License
 
 ## 🙏 Acknowledgments
 
-- **Intel Security Team:** Jonathan Valamehr, Tony Martin, and Toby Kohlenberg for mentorship
+- **Intel Security Team:** Jonathan Valamehr, Tony Martin, Brian Nutter for mentorship and references
 - **OWASP Community:** For incredible free resources and documentation
 - **PortSwigger:** For the comprehensive Web Security Academy
 - **Manning Publications:** For excellent security and Python books

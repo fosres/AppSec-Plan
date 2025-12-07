@@ -22,7 +22,7 @@
 
 ## 🎯 Overview
 
-This repository documents my **26-week intensive journey** from Intel Security Engineering to Application Security Engineering. The curriculum combines offensive security skills (web exploitation, API security) with defensive engineering (SAST/DAST, CI/CD security) to build a comprehensive AppSec skillset.
+This repository documents my **26-week intensive journey** plan to pivot to Application Security Engineering. The curriculum combines offensive security skills (web exploitation, API security) with defensive engineering (SAST/DAST, CI/CD security) to build a comprehensive AppSec skillset.
 
 **Timeline:** 26 weeks (572 total hours)  
 **Commitment:** 22 hours/week  

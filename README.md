@@ -2,10 +2,9 @@
 
 > **Transforming from Intel Security Engineer to AppSec Engineer through systematic, hands-on learning**
 
-[![Week Progress](https://img.shields.io/badge/Week-1%2F26-blue?style=flat-square)](https://github.com/fosres/AppSec-Plan)
-[![Labs Completed](https://img.shields.io/badge/PortSwigger%20Labs-8%2F211-success?style=flat-square)](https://portswigger.net/web-security)
-[![Blog Posts](https://img.shields.io/badge/Blog%20Posts-0%2F8-orange?style=flat-square)](https://dev.to/fosres)
-[![Tools Built](https://img.shields.io/badge/Security%20Tools-2%2F20-red?style=flat-square)](https://github.com/fosres)
+[![Duration](https://img.shields.io/badge/duration-26%20weeks-blue?style=flat-square)](https://github.com/fosres/AppSec-Plan)
+[![Hours](https://img.shields.io/badge/total%20hours-572-green?style=flat-square)](https://github.com/fosres/AppSec-Plan)
+[![Target](https://img.shields.io/badge/target-%24125K--145K-brightgreen?style=flat-square)](https://github.com/fosres/AppSec-Plan)
 
 ---
 
@@ -17,7 +16,6 @@
 - [Learning Objectives](#-learning-objectives)
 - [26-Week Breakdown](#-26-week-breakdown)
 - [Resources & Books](#-resources--books)
-- [Progress Tracking](#-progress-tracking)
 - [Portfolio Goals](#-portfolio-goals)
 - [Connect With Me](#-connect-with-me)
 
@@ -27,8 +25,8 @@
 
 This repository documents my **26-week intensive journey** from Intel Security Engineering to Application Security Engineering. The curriculum combines offensive security skills (web exploitation, API security) with defensive engineering (SAST/DAST, CI/CD security) to build a comprehensive AppSec skillset.
 
-**Timeline:** December 2, 2025 - June 1, 2026  
-**Commitment:** 22 hours/week (572 total hours)  
+**Timeline:** 26 weeks (572 total hours)  
+**Commitment:** 22 hours/week  
 **Target:** Remote AppSec Engineer role ($125K-$145K)  
 **Target Companies:** Trail of Bits, NCC Group, Anthropic, GitLab, Stripe, Coinbase
 
@@ -237,8 +235,8 @@ By Week 26, I will have mastered:
   - **Deliverable:** Mock feedback incorporated
 
 - **Week 26:** Active Job Applications & Networking
-  - 2-3 applications daily, OWASP LA networking
-  - **Deliverable:** 15+ applications submitted, network expanded
+  - Daily applications, OWASP LA networking
+  - **Deliverable:** Active job search, network expanded
 
 ---
 
@@ -266,78 +264,42 @@ By Week 26, I will have mastered:
 
 ---
 
-## 📊 Progress Tracking
-
-### Current Status (Week 1)
-- ✅ **PortSwigger Labs:** 8/211 (3.8%)
-- ✅ **Security Tools Built:** 2/20 (10%)
-- ✅ **Blog Posts Published:** 0/8 (0%)
-- ✅ **P2P Exercises Created:** 0/15 (0%)
-- ✅ **Python Fluency:** 5.5/10
-
-### Weekly Updates
-I'll update this README every Sunday with:
-- Labs completed that week
-- Tools built
-- Blog posts published
-- Key learnings
-- Challenges faced
-
-Follow along on [dev.to/fosres](https://dev.to/fosres) for detailed technical writeups!
-
-### Milestone Tracking
-
-| Milestone | Target Week | Status |
-|-----------|-------------|--------|
-| Foundation Complete (55 labs) | Week 6 | 🔄 In Progress |
-| First Blog Post Published | Week 6 | ⏳ Pending |
-| Auth/Authz Mastery (75 labs) | Week 9 | ⏳ Pending |
-| P2P Project Initialized | Week 9 | ⏳ Pending |
-| SAST/DAST Automation | Week 12 | ⏳ Pending |
-| PyJWT Security Audit Complete | Week 14 | ⏳ Pending |
-| All 211 Labs Complete | Week 22 | ⏳ Pending |
-| Portfolio Website Live | Week 18 | ⏳ Pending |
-| Job Applications Begin | Week 23 | ⏳ Pending |
-| Target: Offer Accepted | Week 26+ | ⏳ Pending |
-
----
-
 ## 🎯 Portfolio Goals
 
 ### Security Tools Repository
 All tools will be published at [github.com/fosres/AppSec-Exercises](https://github.com/fosres/AppSec-Exercises)
 
-**Planned Tools:**
-1. ✅ SQL Injection Detection Script (Week 1)
-2. ✅ Password Strength Validator (Week 1)
-3. ⏳ XSS Payload Generator (Week 2)
-4. ⏳ Credential Analysis Tool (Week 3)
-5. ⏳ IDOR Scanner (Week 4)
-6. ⏳ CSRF PoC Generator (Week 5)
-7. ⏳ OAuth Flow Analyzer (Week 7)
-8. ⏳ Authentication Module with MFA (Week 8)
-9. ⏳ RBAC/ABAC Framework (Week 9)
-10. ⏳ SAST Orchestrator (Week 10)
-11. ⏳ CI/CD Security Scanner (Week 11)
-12. ⏳ Security Framework Dashboard (Week 12)
-13. ⏳ API Security Scanner (Week 13)
-14. ⏳ JWT Attack Tool (Week 14)
-15. ⏳ Vulnerability Aggregator (Week 16)
-16. ⏳ AWS Security Scanner (Week 19)
-17. ⏳ Kubernetes RBAC Auditor (Week 20)
-18. ⏳ GraphQL Security Testing Suite (Week 22)
-19. ⏳ Async Concurrent Scanner (Week 23)
-20. ⏳ [Additional tools as developed]
+**Planned Tools (20+):**
+1. SQL Injection Detection Script
+2. Password Strength Validator
+3. XSS Payload Generator
+4. Credential Analysis Tool
+5. IDOR Scanner
+6. CSRF PoC Generator
+7. OAuth Flow Analyzer
+8. Authentication Module with MFA
+9. RBAC/ABAC Framework
+10. SAST Orchestrator
+11. CI/CD Security Scanner
+12. Security Framework Dashboard
+13. API Security Scanner
+14. JWT Attack Tool
+15. Vulnerability Aggregator
+16. AWS Security Scanner
+17. Kubernetes RBAC Auditor
+18. GraphQL Security Testing Suite
+19. Async Concurrent Scanner
+20. [Additional tools as developed]
 
 ### Blog Posts (dev.to/fosres)
-**Planned Topics:**
-1. ⏳ "Building Your First Security Testing Toolkit in Python: Lessons from 55 Labs" (Week 6)
-2. ⏳ "5 Authorization Bugs AI Code Generation Consistently Misses" (Week 9)
-3. ⏳ "Building a Python Security Dashboard: Integrating 5 Tools in 200 Lines" (Week 12)
-4. ⏳ "What I Learned Auditing PyJWT: A Junior Security Engineer's Perspective" (Week 14)
-5. ⏳ "From Script to Production: Dockerizing a Python Security Tool" (Week 17)
-6. ⏳ "Implementing Zero-Trust CI/CD: From Hardcoded Secrets to HashiCorp Vault" (Week 21)
-7. ⏳ [Additional posts as developed]
+**Planned Topics (8+):**
+1. "Building Your First Security Testing Toolkit in Python: Lessons from 55 Labs"
+2. "5 Authorization Bugs AI Code Generation Consistently Misses"
+3. "Building a Python Security Dashboard: Integrating 5 Tools in 200 Lines"
+4. "What I Learned Auditing PyJWT: A Junior Security Engineer's Perspective"
+5. "From Script to Production: Dockerizing a Python Security Tool"
+6. "Implementing Zero-Trust CI/CD: From Hardcoded Secrets to HashiCorp Vault"
+7. [Additional posts as developed]
 
 ### Open Source Project: Secure Code Datasets for AI
 **Vision:** Create LeetCode-style secure coding exercises to curate high-quality secure code datasets for training AI models to write more secure code.
@@ -346,7 +308,7 @@ All tools will be published at [github.com/fosres/AppSec-Exercises](https://gith
 
 **Solution:** Comprehensive secure coding exercises with test suites that demonstrate correct security patterns for AI training.
 
-**Progress:** Repository initialized at [github.com/fosres/AppSec-Exercises](https://github.com/fosres/AppSec-Exercises)
+**Repository:** [github.com/fosres/AppSec-Exercises](https://github.com/fosres/AppSec-Exercises)
 
 ---
 
@@ -360,7 +322,7 @@ All tools will be published at [github.com/fosres/AppSec-Exercises](https://gith
 ### I'm Looking For:
 - **Feedback:** If you're an experienced AppSec engineer, I'd love feedback on my learning plan
 - **Collaboration:** Interested in contributing to the P2P secure coding exercise project
-- **Opportunities:** Open to remote AppSec Engineer roles starting June 2026
+- **Opportunities:** Open to remote AppSec Engineer roles
 - **Networking:** Always happy to connect with security professionals on LinkedIn or at OWASP LA meetups
 
 ---
@@ -383,11 +345,7 @@ This curriculum and all associated exercises are available under the MIT License
 
 ## 📝 Notes
 
-This is a **living document**. The plan will evolve as I learn and adapt. Weekly updates will be posted every Sunday. Follow my [blog](https://dev.to/fosres) for detailed technical writeups and lessons learned.
-
-**Started:** December 2, 2025  
-**Last Updated:** December 7, 2025  
-**Current Week:** 1/26
+This is a **living document**. The plan evolves as I learn and adapt. Follow my [blog](https://dev.to/fosres) for detailed technical writeups and lessons learned throughout this journey.
 
 ---
 

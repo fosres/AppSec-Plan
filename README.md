@@ -1,6 +1,6 @@
 # 🛡️ 28-Week Full-Time Application Security Engineering Plan
 
-> **Intensive journey Security Engineering through systematic, hands-on learning**
+> **Intensive journey to Security Engineering through systematic, hands-on learning**
 
 [![Duration](https://img.shields.io/badge/duration-28%20weeks-blue?style=flat-square)](https://github.com/fosres/AppSec-Plan)
 [![Hours](https://img.shields.io/badge/total%20hours-1,120-green?style=flat-square)](https://github.com/fosres/AppSec-Plan)
